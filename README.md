@@ -1,7 +1,7 @@
 <h1 align="center"> 𝐊𝐇𝐀𝐍𝐁𝐎𝐓 </h1>
 
 <p align="center">
-  <a href="https://github.com/YOUR-GITHUB-USERNAME/KhanBot">
+  <a href="https://github.com/Nassorkhan/KhanBot">
     <img alt="KhanBot Banner" height="350" src="https://i.ibb.co/album-placeholder-image.jpg">
   </a>
 </p>
